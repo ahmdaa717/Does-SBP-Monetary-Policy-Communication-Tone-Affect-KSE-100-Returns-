@@ -1,4 +1,3 @@
-## Project Title and One-Line Summary
 
 **Does SBP Monetary Policy Communication Tone Affect KSE-100 Returns? A FinBERT + ARDL Analysis**
 
